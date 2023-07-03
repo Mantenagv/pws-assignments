@@ -1,5 +1,8 @@
 # pws-assignment questions
+
+
 #pws assignment1
+
 Q1. Create one variable containing following type of data:
     (i) string
      (ii) list
