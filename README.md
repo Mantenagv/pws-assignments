@@ -1,4 +1,4 @@
-# pws-assignments
+# pws-assignment1 questions 
 Q1. Create one variable containing following type of data:
     (i) string
      (ii) list
